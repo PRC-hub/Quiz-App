@@ -17,4 +17,4 @@ In this project user has to create a simple quiz application, where one can test
 
 ## Output
 
-![expected output](/javascript/02%20Quiz%20App/output/quizAppOutput.png)
+![expected output](https://github.com/PRC-hub/Quiz-App/blob/main/Quiz-App-OUTPUT.png)
